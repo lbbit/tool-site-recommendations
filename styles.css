@@ -66,9 +66,26 @@ h1 {
   color: #fff;
   border-color: var(--accent);
 }
+.search-panel {
+  margin-top: 24px;
+}
+.search-panel input {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 14px 16px;
+  font-size: 1rem;
+  background: rgba(255,255,255,0.95);
+}
+.search-panel p,
+.quick-stats,
+.generated-at {
+  color: var(--muted);
+  margin-bottom: 0;
+}
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 18px;
   margin-top: 24px;
 }
@@ -82,19 +99,32 @@ h1 {
 .card h2 {
   margin-top: 0;
 }
-.card ul {
+.entry-list {
+  list-style: none;
   margin: 0;
-  padding-left: 18px;
+  padding: 0;
 }
-.card li + li {
-  margin-top: 10px;
+.entry {
+  padding: 14px 0;
+  border-top: 1px solid #eef2f6;
 }
-.card a {
+.entry:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+.entry a {
   color: var(--accent);
+  font-weight: 600;
   text-decoration: none;
 }
-.card a:hover {
+.entry a:hover {
   text-decoration: underline;
+}
+.entry p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+  font-size: 0.95rem;
 }
 @media (max-width: 640px) {
   .hero { padding: 28px 22px; }

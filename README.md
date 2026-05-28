@@ -104,11 +104,13 @@ templates/
 
 ## GitHub Pages
 
-仓库已经准备好静态首页入口，适合直接开启 Pages 浏览。
+仓库已经准备好静态首页入口与自动索引机制。
 
 - 入口文件：`index.html`
 - 页面样式：`styles.css`
-- 数据内容：来自 `README.md` 与 `articles/`
+- 页面脚本：`app.js`
+- 索引数据：`data/index.json`（由 `scripts/generate-index.mjs` 自动生成）
+- 自动部署：`.github/workflows/pages.yml`
 
 ## License
 

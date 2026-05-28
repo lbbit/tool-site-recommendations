@@ -1,0 +1,167 @@
+{
+  "generatedAt": "2026-05-28T02:28:11.021Z",
+  "sections": [
+    {
+      "key": "tools",
+      "title": "工具推荐",
+      "items": [
+        {
+          "title": "Ditto",
+          "path": "./articles/tools/ditto.md",
+          "slug": "ditto",
+          "description": "一个好用的剪贴板增强工具，能保存剪贴板历史并快速调用。"
+        },
+        {
+          "title": "Everything",
+          "path": "./articles/tools/everything.md",
+          "slug": "everything",
+          "description": "Windows 平台上极快的本地文件搜索工具，适合替代系统自带搜索。"
+        },
+        {
+          "title": "LocalSend",
+          "path": "./articles/tools/localsend.md",
+          "slug": "localsend",
+          "description": "一个局域网内跨平台传文件工具，不需要公网服务器，适合临时快速互传。"
+        },
+        {
+          "title": "LosslessCut",
+          "path": "./articles/tools/losslesscut.md",
+          "slug": "losslesscut",
+          "description": "一个适合快速无损剪切视频音频的小工具，适合做粗剪和片段提取。"
+        },
+        {
+          "title": "Obsidian",
+          "path": "./articles/tools/obsidian.md",
+          "slug": "obsidian",
+          "description": "一个以本地 Markdown 为核心的知识管理工具，适合长期积累个人知识库。"
+        },
+        {
+          "title": "PicGo",
+          "path": "./articles/tools/picgo.md",
+          "slug": "picgo",
+          "description": "一个帮助你快速上传图片到图床并返回链接的桌面工具。"
+        },
+        {
+          "title": "Raycast",
+          "path": "./articles/tools/raycast.md",
+          "slug": "raycast",
+          "description": "一个面向 macOS 的高效率启动器与工作流工具，适合把大量日常操作收敛到键盘上完成。"
+        },
+        {
+          "title": "ScreenToGif",
+          "path": "./articles/tools/screentogif.md",
+          "slug": "screentogif",
+          "description": "一个适合录制操作演示并导出 GIF/视频的小工具。"
+        },
+        {
+          "title": "ShareX",
+          "path": "./articles/tools/sharex.md",
+          "slug": "sharex",
+          "description": "Windows 上非常强大的截图、录屏、OCR 和自动化分享工具。"
+        },
+        {
+          "title": "Ventoy",
+          "path": "./articles/tools/ventoy.md",
+          "slug": "ventoy",
+          "description": "一个做启动盘非常省心的工具，支持把多个 ISO 直接拷进去使用。"
+        }
+      ]
+    },
+    {
+      "key": "websites",
+      "title": "网站推荐",
+      "items": [
+        {
+          "title": "12ft Ladder",
+          "path": "./articles/websites/12ft.md",
+          "slug": "12ft",
+          "description": "一个曾经很常被人提起的网页阅读辅助工具，适合了解“网页阅读绕过干扰层”的思路。"
+        },
+        {
+          "title": "AlternativeTo",
+          "path": "./articles/websites/alternativeto.md",
+          "slug": "alternativeto",
+          "description": "一个专门找软件替代方案的网站，适合在“这个工具太贵/太重/不合适”时找备选。"
+        },
+        {
+          "title": "Archive.today",
+          "path": "./articles/websites/archive-today.md",
+          "slug": "archive-today",
+          "description": "一个网页快照服务，适合保存某个页面在某一时刻的样子。"
+        },
+        {
+          "title": "Excalidraw",
+          "path": "./articles/websites/excalidraw.md",
+          "slug": "excalidraw",
+          "description": "一个非常适合快速画草图、流程图和产品想法的在线白板工具。"
+        },
+        {
+          "title": "FMHY",
+          "path": "./articles/websites/fmhy.md",
+          "slug": "fmhy",
+          "description": "一个信息密度很高的资源整理网站，长期收集各种数字工具、资源入口和替代方案。"
+        },
+        {
+          "title": "LibRedirect",
+          "path": "./articles/websites/libredirect.md",
+          "slug": "libredirect",
+          "description": "与其说是网站，不如说是一个很好用的“跳转思路”：把常见平台跳转到更轻量或更注重隐私的前端替代入口。"
+        },
+        {
+          "title": "Ninite",
+          "path": "./articles/websites/ninite.md",
+          "slug": "ninite",
+          "description": "一个适合批量安装常用 Windows 软件的网站，可以把一堆软件安装流程简化成一次执行。"
+        },
+        {
+          "title": "Photopea",
+          "path": "./articles/websites/photopea.md",
+          "slug": "photopea",
+          "description": "一个非常强的在线图片编辑网站，经常被当作浏览器里的轻量 Photoshop 替代。"
+        },
+        {
+          "title": "Radio Garden",
+          "path": "./articles/websites/radio-garden.md",
+          "slug": "radio-garden",
+          "description": "一个可以通过地球地图探索全球在线广播的网站，非常适合当作“互联网漫游器”。"
+        },
+        {
+          "title": "TinyWow",
+          "path": "./articles/websites/tinywow.md",
+          "slug": "tinywow",
+          "description": "一个集合了很多轻量在线处理工具的网站，覆盖 PDF、图片、文本、视频等常见临时需求。"
+        }
+      ]
+    },
+    {
+      "key": "collections",
+      "title": "专题推荐",
+      "items": [
+        {
+          "title": "适合长期收藏的设计资源网站",
+          "path": "./articles/collections/design-resources.md",
+          "slug": "design-resources",
+          "description": "- 免费图标库"
+        },
+        {
+          "title": "适合开发者的冷门效率工具",
+          "path": "./articles/collections/dev-tools.md",
+          "slug": "dev-tools",
+          "description": "- 代码搜索增强工具"
+        },
+        {
+          "title": "免费但很好用的在线工具站",
+          "path": "./articles/collections/free-online-tools.md",
+          "slug": "free-online-tools",
+          "description": "- PDF 处理工具"
+        },
+        {
+          "title": "值得收藏的独立网站方向",
+          "path": "./articles/collections/indie-websites.md",
+          "slug": "indie-websites",
+          "description": "- 独立开发者做的垂直小工具"
+        }
+      ]
+    }
+  ]
+}

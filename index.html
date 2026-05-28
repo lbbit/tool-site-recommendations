@@ -17,39 +17,16 @@
           <a class="button primary" href="https://github.com/lbbit/tool-site-recommendations">查看 GitHub</a>
           <a class="button" href="./README.md">阅读 README</a>
         </div>
+        <div class="search-panel">
+          <input id="searchInput" type="search" placeholder="搜索工具、网站或简介关键字" />
+          <p id="searchHint">支持按名称或简介关键字快速筛选</p>
+        </div>
+        <p id="quickStats" class="quick-stats"></p>
+        <p id="generatedAt" class="generated-at"></p>
       </section>
 
-      <section class="grid">
-        <article class="card">
-          <h2>工具推荐</h2>
-          <ul>
-            <li><a href="./articles/tools/raycast.md">Raycast</a></li>
-            <li><a href="./articles/tools/obsidian.md">Obsidian</a></li>
-            <li><a href="./articles/tools/sharex.md">ShareX</a></li>
-            <li><a href="./articles/tools/everything.md">Everything</a></li>
-            <li><a href="./articles/tools/localsend.md">LocalSend</a></li>
-          </ul>
-        </article>
-        <article class="card">
-          <h2>网站推荐</h2>
-          <ul>
-            <li><a href="./articles/websites/fmhy.md">FMHY</a></li>
-            <li><a href="./articles/websites/alternativeto.md">AlternativeTo</a></li>
-            <li><a href="./articles/websites/excalidraw.md">Excalidraw</a></li>
-            <li><a href="./articles/websites/photopea.md">Photopea</a></li>
-            <li><a href="./articles/websites/radio-garden.md">Radio Garden</a></li>
-          </ul>
-        </article>
-        <article class="card">
-          <h2>专题推荐</h2>
-          <ul>
-            <li><a href="./articles/collections/indie-websites.md">值得收藏的独立网站方向</a></li>
-            <li><a href="./articles/collections/dev-tools.md">适合开发者的冷门效率工具</a></li>
-            <li><a href="./articles/collections/free-online-tools.md">免费但很好用的在线工具站</a></li>
-            <li><a href="./articles/collections/design-resources.md">适合长期收藏的设计资源网站</a></li>
-          </ul>
-        </article>
-      </section>
+      <section id="sections" class="grid"></section>
     </main>
+    <script src="./app.js"></script>
   </body>
 </html>
