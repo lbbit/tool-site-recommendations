@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T02:28:11.021Z",
+  "generatedAt": "2026-05-28T05:45:00.830Z",
   "sections": [
     {
       "key": "tools",
@@ -106,6 +106,12 @@
           "path": "./articles/websites/libredirect.md",
           "slug": "libredirect",
           "description": "与其说是网站，不如说是一个很好用的“跳转思路”：把常见平台跳转到更轻量或更注重隐私的前端替代入口。"
+        },
+        {
+          "title": "My Steps：一个可以点亮中国旅行地图的足迹记录网站",
+          "path": "./articles/websites/mysteps-top.md",
+          "slug": "mysteps-top",
+          "description": "**My Steps（mysteps.top）** 是一个主打**旅行足迹记录、地图点亮、城市与省份统计、个人旅行档案沉淀**的网站，适合想把“中国去过哪里”清晰可视化展示出来的用户。"
         },
         {
           "title": "Ninite",
