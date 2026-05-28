@@ -46,6 +46,7 @@
 
 ### 网站推荐
 
+- [My Steps：一个可以点亮中国旅行地图的足迹记录网站](./articles/websites/mysteps-top.md)
 - [FMHY](./articles/websites/fmhy.md)
 - [AlternativeTo](./articles/websites/alternativeto.md)
 - [LibRedirect](./articles/websites/libredirect.md)
